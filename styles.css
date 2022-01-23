@@ -1,0 +1,50 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.frist-section{
+
+    display: flex;
+}
+.icon {
+    display: flex;
+    
+}
+.prebook{
+    
+    margin-top: 22px;
+}
+.link{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgba(50, 153, 223, 0.918);
+    
+
+}
+.frist-div{
+    font-family: 'Roboto', sans-serif;
+    height: 270px;
+    width:582px;
+    margin-top: 50px;
+    
+}
+.font-size{
+    font-size: 52px;
+
+
+}
+.frist-div img{
+    height: 90;
+    width: 70px;
+}
+.div-img{
+    width: 440px;
+    height:414px;
+  
+}
+.second-section{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr;
+    
+}
